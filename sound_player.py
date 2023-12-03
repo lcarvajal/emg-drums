@@ -12,7 +12,7 @@ class SoundPlayer():
 
         self.drum_sounds = {
             'snare': SoundEffect("snare"),
-            'high-hat-closed': SoundEffect("high-hat-closed"),
+            'high-hat': SoundEffect("high-hat"),
             'kick': SoundEffect("kick"),
         }
 
